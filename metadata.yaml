@@ -1,0 +1,25 @@
+_repo: Erya_51620
+_version: 0.0.1
+alternative_title: Erya
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2016-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51620'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Encyclopedias and dictionaries, Chinese'
+- !lcc 'AC'
+- !lcsh 'Chinese language -- To 600'
+- GITenberg
+title: 爾雅
+url: http://www.gutenberg.org/ebooks/51620
